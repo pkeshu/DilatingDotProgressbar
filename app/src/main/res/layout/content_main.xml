@@ -24,7 +24,6 @@
             android:layout_gravity="center"
             android:radius="5dp"
             android:color="#8C2323"
-
             />
 
     </FrameLayout>
